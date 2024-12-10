@@ -7,5 +7,10 @@ The project aims to overcome limitations of conventional implantable biomedical 
 
 ## Objective of work
 This thesis aims to design and optimize a Piezoelectric Ultrasonic Energy Harvester (PUEH) for maximum power generation, utilizing Piezoelectric MEMS diaphragms for efficient frequency responses. The goal is to advance energy harvesting technologies for implantable biomedical devices.
+
+
+
 ![eigenwith](https://github.com/user-attachments/assets/7751cd06-d901-4366-8499-b35c135abfd4)
+
+
 ![imd](https://github.com/user-attachments/assets/bf67de5d-15fb-441d-91d9-f0d05af8231a)
